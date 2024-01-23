@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
 # Copyright © 2008-2009 Francesco Fumanti <francesco.fumanti@gmx.net>
